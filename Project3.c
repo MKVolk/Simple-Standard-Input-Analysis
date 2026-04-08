@@ -3,7 +3,7 @@
 *
 * Description: A program that loads and analizes strings from standard input 
 *
-* Author: Markos Calderon (N01600902)
+* Author: Markos Calderon
 *
 * Date: November 10, 2024
 */
