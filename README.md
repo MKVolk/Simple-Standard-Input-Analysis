@@ -1,2 +1,2 @@
-# PII_Project3_Analyze_STDIN
-A program that analyses standard Input
+# Simple Analysis of Standard input
+A program that gives a basic analysis of string lines sent to Standard Input
